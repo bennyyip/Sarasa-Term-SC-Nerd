@@ -18,8 +18,8 @@ projectName = "Nerds"
 projectNameAbbreviation = ""
 projectNameSingular = projectName[:-1]
 subFamily = ""
-looseName = "Sarasa Term SC Nerd"
-compactName = "SarasaTermSCNerd"
+looseName = "Sarasa Fixed CL Nerd"
+compactName = "SarasaFixedCLNerd"
 
 import sys
 import re
@@ -770,7 +770,7 @@ class font_patcher:
         # FOR SARASA
         projectInfo = (
             # "Patched with '" + projectName + " Patcher' (https://github.com/ryanoasis/nerd-fonts)\n\n"
-            "Patched with 'Sarasa Term SC Nerd Patcher' (https://github.com/laishulu/Sarasa-Term-SC-Nerd)\n\n"
+            "Patched with 'Sarasa Fixed CL Nerd Patcher' (https://github.com/laishulu/Sarasa-Term-CL-Nerd)\n\n"
             "* Website: https://www.nerdfonts.com\n"
             "* Version: " + version + "\n"
             # "* Development Website: https://github.com/ryanoasis/nerd-fonts\n"
